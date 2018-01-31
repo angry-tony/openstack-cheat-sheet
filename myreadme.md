@@ -4,7 +4,7 @@
 
 ## OpenStack project
 
-The current most current version of Ocata, data from https://www.openstack.org/software/project-navigator, click to view [complete JSON data] (openstack_services_format.json).
+The current most current version of Ocata, data from https://www.openstack.org/software/project-navigator, click to view [complete JSON data](openstack_services_format.json).
 
 ### Management Tools
 
