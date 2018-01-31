@@ -10,12 +10,12 @@ The current most current version of Ocata, data from https://www.openstack.org/s
 
 | Name | LOGO | Service | Age | Deployment Rate | Maturity |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| [Horizon] (https://wiki.openstack.org/wiki/Horizon) |! [Horizon] (https://www.openstack.org/software/images/mascots/horizon.png) | Dashboard | 6 years | 87% | 6/7 |
-| [OSclient (CLI)] (https://wiki.openstack.org/wiki/OSclient) |! [Osclient- (cli)] (https://www.openstack.org/software/images/mascots/osclient- (cli) .png) | Command-line client | 1 year | 0% | 0/7 |
-| [Rally] (https://wiki.openstack.org/wiki/Rally) |! [Rally] (https://www.openstack.org/software/images/mascots/rally.png) | Benchmark service | 1 Year | 23% | 0/7 |
-| [Senlin] (https://wiki.openstack.org/wiki/Senlin) |! [Senlin] (https://www.openstack.org/software/images/mascots/senlin.png) | Clustering service | 1 Year | 0% | 0/7 |
-| [Vitrage] (https://wiki.openstack.org/wiki/Vitrage) |! [Vitrage] (https://www.openstack.org/software/images/mascots/vitrage.png) | RCA (Root Cause Analysis service) | 1 year | 0% | 0/7 |
-| [Watcher] (https://wiki.openstack.org/wiki/Watcher) |! [Watcher] (https://www.openstack.org/software/images/mascots/watcher.png) | Optimization Service | 1 Year | 0% | 0/7 |
+| [Horizon](https://wiki.openstack.org/wiki/Horizon) |! [Horizon](https://www.openstack.org/software/images/mascots/horizon.png) | Dashboard | 6 years | 87% | 6/7 |
+| [OSclient (CLI)](https://wiki.openstack.org/wiki/OSclient) |! [Osclient- (cli)](https://www.openstack.org/software/images/mascots/osclient- (cli) .png) | Command-line client | 1 year | 0% | 0/7 |
+| [Rally](https://wiki.openstack.org/wiki/Rally) |! [Rally](https://www.openstack.org/software/images/mascots/rally.png) | Benchmark service | 1 Year | 23% | 0/7 |
+| [Senlin](https://wiki.openstack.org/wiki/Senlin) |! [Senlin](https://www.openstack.org/software/images/mascots/senlin.png) | Clustering service | 1 Year | 0% | 0/7 |
+| [Vitrage](https://wiki.openstack.org/wiki/Vitrage) |! [Vitrage](https://www.openstack.org/software/images/mascots/vitrage.png) | RCA (Root Cause Analysis service) | 1 year | 0% | 0/7 |
+| [Watcher](https://wiki.openstack.org/wiki/Watcher) |! [Watcher](https://www.openstack.org/software/images/mascots/watcher.png) | Optimization Service | 1 Year | 0% | 0/7 |
 
 ### Network & Content Distribution
 
