@@ -8,7 +8,7 @@ The current most current version of Ocata, data from https://www.openstack.org/s
 
 ### Management Tools
 
-LOGO | Service | Age | Deployment Rate | Maturity |
+| Name | LOGO | Service | Age | Deployment Rate | Maturity |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Horizon] (https://wiki.openstack.org/wiki/Horizon) |! [Horizon] (https://www.openstack.org/software/images/mascots/horizon.png) | Dashboard | 6 years | 87% | 6/7 |
 | [OSclient (CLI)] (https://wiki.openstack.org/wiki/OSclient) |! [Osclient- (cli)] (https://www.openstack.org/software/images/mascots/osclient- (cli) .png) | Command-line client | 1 year | 0% | 0/7 |
@@ -19,7 +19,7 @@ LOGO | Service | Age | Deployment Rate | Maturity |
 
 ### Network & Content Distribution
 
-LOGO | Service | Age | Deployment Rate | Maturity |
+| Name | LOGO | Service | Age | Deployment Rate | Maturity |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Neutron] (https://wiki.openstack.org/wiki/Neutron) |! [Neutron] (https://www.openstack.org/software/images/mascots/neutron.png) | Networking | 5 years | 93% | 7/7 |
 | [Designate] (https://wiki.openstack.org/wiki/Designate) |! [Designate] (https://www.openstack.org/software/images/mascots/designate.png) | DNS Service | 3 Year | 16% | 3/7 |
@@ -31,7 +31,7 @@ LOGO | Service | Age | Deployment Rate | Maturity |
 
 ### Deployment Tools
 
-LOGO | Service | Age | Deployment Rate | Maturity |
+| name | LOGO | Service | Age | Deployment Rate | Maturity |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Chef OpenStack] (https://wiki.openstack.org/wiki/Chef) |! [Chef-openstack] (https://www.openstack.org/software/images/mascots/chef-openstack.png) Chef cookbooks for OpenStack | 1 year | 0% | 1/7 |
 | [Kolla] (https://wiki.openstack.org/wiki/Kolla) |! [Kolla] (https://www.openstack.org/software/images/mascots/kolla.png) | Container deployment | 1 Year | 12% | 1/7 |
@@ -42,7 +42,7 @@ LOGO | Service | Age | Deployment Rate | Maturity |
 
 ### safety certificate
 
-LOGO | Service | Age | Deployment Rate | Maturity |
+| Name | LOGO | Service | Age | Deployment Rate | Maturity |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Keystone] (https://wiki.openstack.org/wiki/Keystone) |! [Keystone] (https://www.openstack.org/software/images/mascots/keystone.png) | Identity service | 6 Year | 96% | 6/7 |
 | [Barbican] (https://wiki.openstack.org/wiki/Barbican) |! [Barbican] (https://www.openstack.org/software/images/mascots/barbican.png) | Key Management | 4 Year | 9% | 4/7 |
@@ -51,14 +51,10 @@ LOGO | Service | Age | Deployment Rate | Maturity |
 
 ### data analysis
 
-LOGO | Service | Age | Deployment Rate | Maturity |
+| Name | LOGO | Service | Age | Deployment Rate | Maturity |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | [Trove] (https://wiki.openstack.org/wiki/Trove) |! [Trove] (https://www.openstack.org/software/images/mascots/trove.png) | Database as a Service | 4 years | 13% | 3/7 |
 | [Sahara] (https://wiki.openstack.org/wiki/Sahara) |! [Sahara] (https://www.openstack.org/software/images/mascots/sahara.png) | Big Data Processing Framework Provisioning | 3 years | 10% | 3/7 |
 | [Searchlight] (https://wiki.openstack.org/wiki/Searchlight) |! [Searchlight] (https://www.openstack.org/software/images/mascots/searchlight.png) | Indexing and Search | 1 year | 0% | 0/7 |
 
 ### Save & Backup & Restore
-
-LOGO | Service | Age | Deployment Rate | Maturity |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| [Swift] (https://wiki.openstack.org/wiki/Swift) |! [Swift] (https://www.openstack.org/software/images/mascots/swift.png)
